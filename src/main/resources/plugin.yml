@@ -1,0 +1,5 @@
+name: CreeperGriefWard
+main: com.dumptruckman.minecraft.creepergriefward.CreeperGriefWard
+version: 1.0
+author: dumptruckman
+depend: [Towny]
